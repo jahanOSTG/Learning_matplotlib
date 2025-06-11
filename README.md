@@ -4,6 +4,13 @@ Welcome to my journey through **Matplotlib**, the most popular data visualizatio
 I’ve completed the essential topics needed to create a wide variety of **static**, **animated**, and **interactive** plots.
 
 ---
+## 🛠️ Tools & Libraries Used
+
+-  **Jupyter Notebook** – For interactive plotting and learning  
+-  **NumPy** – For generating and manipulating numerical data  
+-  **Matplotlib** – For all types of data visualization
+
+---
 
 ## ✅ Topics Covered
 
